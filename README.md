@@ -35,6 +35,7 @@ boruta/pca/attention权重
 
 ### GLAC微观模型
 宏观-微观图
+![micro vs macro.png](graphs%2Fmicro%20vs%20macro.png)
 
 预测的momentum和win rate求导的图
 ![predicted momentum vs partial win probaility.png](graphs%2Fpredicted%20momentum%20vs%20partial%20win%20probaility.png)
