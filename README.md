@@ -1,5 +1,11 @@
+### EDA
+Heatmap
+![heatmap.png](graphs%2Fheatmap.png)
+
+
 ### 第一题
 积分， performance单独图和对比图
+
 
 #
 ### 第二题
