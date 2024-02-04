@@ -5,6 +5,8 @@ Heatmap
 
 ### 第一题
 积分， performance单独图和对比图
+![point vs performance vs server.png](graphs%2Fpoint%20vs%20performance%20vs%20server.png)
+![point vs sigma_point vs sigma_performance.png](graphs%2Fpoint%20vs%20sigma_point%20vs%20sigma_performance.png)
 
 
 #
