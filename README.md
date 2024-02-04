@@ -2,10 +2,14 @@
 Heatmap
 ![heatmap.png](graphs%2Fheatmap.png)
 
+Boruta
+![boruta of all data.png](graphs%2Fboruta%20of%20all%20data.png)
 
 ### 第一题
-积分， performance单独图和对比图
+performance（momentum）和是否破发非常相关
 ![point vs performance vs server.png](graphs%2Fpoint%20vs%20performance%20vs%20server.png)
+
+momentum基本反应得分情况
 ![point vs sigma_point vs sigma_performance.png](graphs%2Fpoint%20vs%20sigma_point%20vs%20sigma_performance.png)
 
 
