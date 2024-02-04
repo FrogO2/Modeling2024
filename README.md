@@ -15,9 +15,16 @@ momentum基本反应得分情况
 
 #
 ### 第二题
-boruta衡量performance和momentum与其他变量相关性
 
-momentum->破发球->胜率改变->swing
+不一定有用的图，可以证明胜率和得分情况的积分很相关（注意胜率的尺度被扩大了10倍）
+![point vs sigma_win_probability.png](graphs%2Fpoint%20vs%20sigma_win_probability.png)
+
+momentum->破发球->胜率改变->swing(momentum->破发球 同第一题散点图)
+
+破发球->胜率变化->swing
+![win probability vs partial win probability vs break serve.png](graphs%2Fwin%20probability%20vs%20partial%20win%20probability%20vs%20break%20serve.png)
+
+boruta衡量performance和momentum与其他变量相关性（推迟）
 
 #
 ### 第三题
@@ -29,9 +36,11 @@ boruta/pca/attention权重
 ### GLAC微观模型
 宏观-微观图
 
-预测的momentum的图
+预测的momentum和win rate求导的图
+![predicted momentum vs partial win probaility.png](graphs%2Fpredicted%20momentum%20vs%20partial%20win%20probaility.png)
 
 预测和实际的momentum对比图
+![predicted momentum vs momentum.png](graphs%2Fpredicted%20momentum%20vs%20momentum.png)
 
 #
 ### in-match set win rate prediction model局内预测模型
