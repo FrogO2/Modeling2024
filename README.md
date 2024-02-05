@@ -29,6 +29,7 @@ boruta衡量performance和momentum与其他变量相关性（推迟）
 #
 ### 第三题
 boruta/pca/attention权重
+![sigma_point winner vs sigma_predicted momentum.png](graphs%2Fsigma_point%20winner%20vs%20sigma_predicted%20momentum.png)
 
 #
 ## 模型
