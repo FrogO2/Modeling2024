@@ -43,7 +43,7 @@ boruta/pca/attention权重
 
 预测和实际的momentum对比图
 ![predicted momentum vs momentum.png](graphs%2Fpredicted%20momentum%20vs%20momentum.png)
-
+![1.png](graphs%2F1.png)
 #
 ### in-match set win rate prediction model局内预测模型
 
